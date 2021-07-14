@@ -7,6 +7,7 @@ with the following feature set added:   **QOS**
                                         **OPENSSH**
                                         **OPENSSL_EC**
                                         **OPENSSL_EXE**
+**Firstly flash BREED Bootloader onto your router and then flash the Padavan Firmware file from the releases using BREED normally as you would flash any firmware** 
 
 __________________________________________________________________
 
